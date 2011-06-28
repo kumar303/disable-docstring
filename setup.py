@@ -11,7 +11,7 @@ setup(
     license="Apache License",
     packages=find_packages(exclude=['ez_setup']),
     install_requires=['Nose'],
-    url='',
+    url='https://github.com/kumar303/disable-docstring',
     include_package_data=True,
     entry_points="""
        [nose.plugins.0.10]
